@@ -1,2 +1,0 @@
-# OrbAnimation
-Created with CodeSandbox
